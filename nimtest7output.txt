@@ -1,0 +1,5 @@
+Player 1 - choose bag: Now choose no. of tokens: Bag Status: 0, 10, 10
+Player 2 - choose bag: Now choose no. of tokens: Bag Status: 0, 0, 10
+Player 1 - choose bag: Now choose no. of tokens: Bag Status: 0, 0, 1
+Player 2 - choose bag: Now choose no. of tokens: Bag Status: 0, 0, 0
+Game Over - Player 1 wins
